@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.welabfrontend",
-    "sha256_cert_fingerprints":["CC:A7:09:5E:51:EE:63:68:6F:29:38:22:69:65:33:AA:1F:08:E4:A5:3C:DA:FB:87:59:3E:30:87:D9:93:A0:C2"]
+    "package_name": "",
+    "sha256_cert_fingerprints":[""]
   }
 }]
